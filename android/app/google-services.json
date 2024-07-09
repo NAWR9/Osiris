@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877061269871",
+    "project_id": "movietrackera",
+    "storage_bucket": "movietrackera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877061269871:android:6f18926b366c7b114b609a",
+        "android_client_info": {
+          "package_name": "io.arjuningole.osiris"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8qJ-dN8US8OZf5ZYr6Ke6_GH-5diK1UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
